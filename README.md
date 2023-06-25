@@ -29,7 +29,7 @@
  
 </div>
 
-![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/PedroPauloAguiar/PedroPauloAguiar/blob/output/github-contribution-grid-snake.svg)
 
 
  
