@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @PedroPauloAguiar
-- 👀 I’m interested in Terraform, AWS, Azure, Python, Open-shift and Linux
-- 🌱 I’m currently learning Terraform and Aws
-- 💞️ I’m looking to collaborate on Devops
-- 📫 How to reach me ...
+- 👋Olá, eu sou o Pedro Paulo Aguiar!
+- 👀 Trabalho atualmente desenvolvendo infraestrutura como código via Terraform, também com automações em Python usando REST API e construindo pipelines no Azure DevOps e implementando aplicações.  
+- 🌱 Atualmente estudando sobre Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible e Linux
 
-<!---
-PedroPauloAguiar/PedroPauloAguiar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/PedroPauloAguiar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloAguiar&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+  <img align="center" alt="Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  
+</div>
+
+##
+
+<div> 
+ 
+
+  <a href= "https://www.linkedin.com/in/pedro-paulo-santos-leal-de-aguiar-a7bb1a179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+![Snake animation](https://github.com/braziltaiany/braziltaiany/blob/output/github-contribution-grid-snake.svg)
+
+
+ 
