@@ -1,6 +1,6 @@
 - 👋Olá, eu sou o Pedro Paulo Aguiar!
-- 👀 Trabalho desenvolvendo infraestrutura como código via Terraform, também com automações em Python usando REST API e construindo pipelines no Azure DevOps e implementando aplicações.  
-- 🌱 Atualmente ampliando meus conhecimentos em Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform e Python(Flasky and REST API).
+- 👀 Desenvolvo infraestrutura como código via Terraform, possuo experiência em Python usando REST API with Flasky e construo pipelines no Azure DevOps implementando aplicações.  
+- 🌱 Atualmente ampliando meus conhecimentos em Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform e Python (REST API with Flasky).
 
 <div>
   <a href="https://github.com/PedroPauloAguiar">
