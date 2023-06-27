@@ -1,11 +1,10 @@
 - 👋Olá, eu sou o Pedro Paulo Aguiar!
 - 👀 Trabalho desenvolvendo infraestrutura como código via Terraform, também com automações em Python usando REST API e construindo pipelines no Azure DevOps e implementando aplicações.  
 - 🌱 Atualmente estudando sobre Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible e Linux
-- 
 
 <div>
   <a href="https://github.com/PedroPauloAguiar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloAguiar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
