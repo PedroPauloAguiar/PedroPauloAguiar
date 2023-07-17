@@ -1,7 +1,7 @@
-- 👋Olá, eu sou o Pedro Paulo Aguiar!
-- 👀 Desenvolvo infraestrutura como código via Terraform, possuo experiência em Python usando REST API with Flasky e construo pipelines no Azure DevOps implementando aplicações.  
-- 🌱 Atualmente ampliando meus conhecimentos em Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform e Python (REST API with Flask).
-- Microsoft Azure Certified
+- 👋 Hello, I'm Pedro Paulo Aguiar!
+- 👀 Certified by Microsoft in Azure Fundalmentals, I gained my experience after working as a DevOps intern, familiarized with Azure
+DevOps CI/CD and with agile methodologies such as Scrum and Agile, I worked performing automations with Python, using REST API, Terraform to build infrastructure as code with Azure and AWS providers..  
+- 🌱 Currently expanding my knowledge in Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform, Python and ASP.Net.
 
 <div>
   <a href="https://github.com/PedroPauloAguiar">
