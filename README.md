@@ -3,11 +3,6 @@
 DevOps CI/CD and with agile methodologies such as Scrum and Agile, I worked performing automations with Python, using REST API, Terraform to build infrastructure as code with Azure and AWS providers..  
 - 🌱 Currently expanding my knowledge in Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform, Python and ASP.Net.
 
-<div>
-  <a href="https://github.com/PedroPauloAguiar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloAguiar&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
