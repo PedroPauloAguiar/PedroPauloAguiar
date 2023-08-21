@@ -5,11 +5,11 @@ DevOps CI/CD, Kubernetes, Docker, Ansible, Linux, Terraform, Jenkins and with ag
 
 - Currently expanding my knowledge in Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL and MongoDB
 
-<a href="https://github.com/aguiarpedro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aguiarpedro&rank_icon=github" />
+<a href="https://github.com/PedroPauloAguiar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar" />
 </a>
-<a href="https://github.com/aguiarpedro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aguiarpedro&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/PedroPauloAguiar/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPauloAguiar&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
