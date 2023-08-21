@@ -7,7 +7,8 @@ DevOps CI/CD, Kubernetes, Docker, Ansible, Linux, Terraform, Jenkins and with ag
 
 <a href="https://github.com/PedroPauloAguiar/github-readme-stats">
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&rank_icon=github&show_icons=true&theme=highcontrast" />
-</a><a href="https://github.com/PedroPauloAguiar/convoychat">
+</a>
+<a href="https://github.com/PedroPauloAguiar/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPauloAguiar&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=highcontrast" />
 </a>
 
