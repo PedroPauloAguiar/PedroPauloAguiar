@@ -5,8 +5,12 @@ DevOps CI/CD, Kubernetes, Docker, Ansible, Linux, Terraform, Jenkins and with ag
 
 - Currently expanding my knowledge in Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL and MongoDB
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPauloAguiar&layout=compact)
+<a href="https://github.com/PedroPauloAguiar/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PedroPauloAguiar" />
+</a>
+<a href="https://github.com/PedroPauloAguiar/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroPauloAguiar&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
