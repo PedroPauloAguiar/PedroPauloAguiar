@@ -1,7 +1,9 @@
 - 👋 Hello, I'm Pedro Paulo Aguiar!
+  
 - 👀 Certified by Microsoft in Azure Fundalmentals, I gained my experience after working as a DevOps intern, familiarized with Azure
-DevOps CI/CD and with agile methodologies such as Scrum and Agile, I worked performing automations with Python, using REST API, Terraform to build infrastructure as code with Azure and AWS providers..  
-- 🌱 Currently expanding my knowledge in Grafana, Jenkins, Linux, Kubernetes, Docker, Ansible, Linux, Terraform, Python and ASP.Net.
+DevOps CI/CD, Kubernetes, Docker, Ansible, Linux, Terraform, Jenkins and with agile methodologies such as Scrum and Agile, I worked performing automations with Python, using REST API, Terraform to build infrastructure as code with Azure and AWS providers.
+
+- 🌱 Currently expanding my knowledge in Java, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL and MongoDB
 
 
 <div style="display: inline_block"><br>
